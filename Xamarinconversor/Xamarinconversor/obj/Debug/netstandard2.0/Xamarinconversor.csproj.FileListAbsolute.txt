@@ -1,0 +1,37 @@
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\bin\Debug\netstandard2.0\Xamarinconversor.deps.json
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\bin\Debug\netstandard2.0\Xamarinconversor.dll
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\bin\Debug\netstandard2.0\Xamarinconversor.pdb
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.csproj.AssemblyReference.cache
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.AssemblyInfoInputs.cache
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.AssemblyInfo.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.csproj.CoreCompileInputs.cache
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.dll
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\refint\Xamarinconversor.dll
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.pdb
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\ref\Xamarinconversor.dll
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\MainMenu.xaml.g.cs
+C:\Users\Cris\source\repos\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\Convertir.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.csproj.AssemblyReference.cache
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\Convertir.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\MainMenu.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Views\UpdateApp.xaml.g.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.AssemblyInfoInputs.cache
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.AssemblyInfo.cs
+C:\Users\Cris\source\repos\v2 conversor xamarin\Xamarinconversor\Xamarinconversor\obj\Debug\netstandard2.0\Xamarinconversor.csproj.CoreCompileInputs.cache

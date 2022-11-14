@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarinconversor.Views.Convertir"
+             NavigationPage.HasNavigationBar="False"
+             Visual="Material">
+    <ContentPage.Content>
+        <!--
+        <Grid RowDefinitions="*,*" ColumnDefinitions="*,*">
+            <Button Text="Hola" Grid.Row="1" Grid.Column="1"/>
+        </Grid>
+         -->
+        <Grid BackgroundColor="#FFE5B5">
+            <StackLayout VerticalOptions="Center" Spacing="20" Margin="20">
+                <Image Source="mundopng.png"/>
+                <Frame CornerRadius="20" HasShadow="False">
+                    <Entry Keyboard="Numeric" Placeholder="Centimetros (cm)" PlaceholderColor="Black" FontSize="Large" x:Name="txtcm"/>
+                </Frame>
+                <Button Text="Calcular"
+                        FontSize="Large"
+                        TextTransform="None"
+                        FontAttributes="Bold"
+                        Margin="0,20,0,0"
+                        BackgroundColor="#DCBF6E"
+                        TextColor="Black"
+                        x:Name="btncalcular"
+                        Clicked="btncalcular_Clicked"/>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Resultado:"
+                           FontSize="Large"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center" />
+                    <Label Text="0.00"
+                           FontSize="Large"
+                           FontAttributes="Bold"
+                           VerticalOptions="Center" 
+                           x:Name="lblrsultado"/>
+                </StackLayout>
+                <Button TextTransform="None" TextColor="Black" FontAttributes="Bold" FontSize="Large" BackgroundColor="White" Text="Volver" CornerRadius="10" x:Name="btnvolver" Clicked="btnvolver_Clicked"/>
+            </StackLayout>
+            
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

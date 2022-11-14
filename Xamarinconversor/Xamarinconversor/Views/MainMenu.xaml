@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarinconversor.Views.MainMenu"
+             NavigationPage.HasNavigationBar="False">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#FFE5B5">
+            <Label Text="Conversor"
+                   FontSize="40"
+                   FontAttributes="Bold"
+                   Margin="0,20,0,0"
+                   HorizontalOptions="Center" />
+            <Frame VerticalOptions="FillAndExpand"
+                   Margin="40,20"
+                   CornerRadius="20"
+                   HasShadow="False">
+                <StackLayout VerticalOptions="Center"
+                             Spacing="20">
+                    <Image Source="https://larepublica.pe/resizer/FCqgFcXXcHUh39edywylQV8Kk-4=/538x0/top/larepublica.pe/resizer/LbJ0j7MA2O1pHH7ekLIhi3dDMVw=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/LORVSYYIEFGGJL5YUY3PCKWGMA.jpg" />
+                    <Label Text="(cm) a (m)"
+                           FontSize="40"
+                           FontAttributes="Bold"
+                           HorizontalOptions="Center" />
+                    <Button Text="Iniciar"
+                            TextTransform="None"
+                            BackgroundColor="#DCBF6E"
+                            TextColor="Black"
+                            CornerRadius="20"
+                            FontSize="Medium"
+                            FontAttributes="Bold" 
+                            x:Name="btnIniciar"
+                            Clicked="btnIniciar_Clicked"/>
+                    <Button Text="Login"
+                            TextTransform="None"
+                            BackgroundColor="#DCBF6E"
+                            TextColor="Black"
+                            CornerRadius="20"
+                            FontSize="Medium"
+                            FontAttributes="Bold"
+                            x:Name="btnLogin"
+                            Clicked="btnLogin_Clicked" />
+                </StackLayout>
+            </Frame>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

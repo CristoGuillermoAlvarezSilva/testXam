@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             mc:Ignorable="d"
+             x:Class="Xamarinconversor.Views.LoginPage"
+             NavigationPage.HasNavigationBar="False"
+             Visual="Material">
+    <Grid BackgroundColor="DarkBlue">
+        <xct:MediaElement Source="ms-appx:///vidio.mp4" ShowsPlaybackControls="False"  IsLooping="True" Aspect="AspectFill" AutoPlay="True" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+        <BoxView Opacity="0.3"
+                 BackgroundColor="DeepSkyBlue" />
+        <Grid WidthRequest="20"
+              HeightRequest="20"
+              Margin="100,-550,0,0">
+            <Image Source="mundopng.png"
+                   WidthRequest="20"
+                   HeightRequest="20"
+                   Margin="90,0,0,0" />
+        </Grid>
+        
+        <Grid HeightRequest="520"
+              Margin="40">
+            
+            <Path Fill="white"
+                  HorizontalOptions="Center"
+                  Aspect="Uniform" Data="M30.6,172.838V696.314L348.157,426.72Z" Opacity="0.5"/>
+            <Path Fill="white" StrokeThickness="1"
+                  Aspect="Uniform" HorizontalOptions="Center"
+                  Data="M30.6,172.838V650.665L320.465,404.581Z"
+                  Opacity="0.8" />
+            <Path Fill="#00AEEB"
+                  StrokeThickness="1"
+                  Aspect="Uniform"
+                  HorizontalOptions="Center"
+                  Data="M30.6,140.838V605.512L293.073,420.682Z"
+                  Opacity="0.8" />
+            <StackLayout Spacing="20" VerticalOptions="CenterAndExpand" Margin="30">
+                <Label Text="Log In" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+                <StackLayout Spacing="10">
+                    <Grid WidthRequest="193"
+                          Padding="10,0"
+                          HorizontalOptions="Start">
+                        <Entry Placeholder="UserName"
+                               FontSize="18"
+                               BackgroundColor="#2FBAED" />
+                    </Grid>
+                    <Grid WidthRequest="160"
+                          Padding="10,0"
+                          HorizontalOptions="Start">
+                        <Entry Placeholder="Password"
+                               FontSize="18"
+                               BackgroundColor="#2FBAED" />
+                    </Grid>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </Grid>
+</ContentPage>
